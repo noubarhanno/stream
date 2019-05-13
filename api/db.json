@@ -4,6 +4,29 @@
       "title": "My Stream",
       "description": "MY FIRST STREAM",
       "id": 1
+    },
+    {
+      "title": "My Second Stream",
+      "description": "This is the second awesome stream",
+      "id": 2
+    },
+    {
+      "title": "How to implement React",
+      "description": "New React Feature Hooks",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "Another one",
+      "description": "Another one Description",
+      "userId": "115744295907934150560",
+      "id": 4
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "didn't expect that",
+      "userId": "115744295907934150560",
+      "id": 5
     }
   ]
 }
