@@ -44,9 +44,12 @@ export const fetchStream = id => async dispatch => {
 };
 
 export const editStream = (id, formValues) => async dispatch => {
-    const response = await streams.put(`/streams/${id}`, formValues);
+    const response = await streams.patch(`/streams/${id}`, formValues);
+    // put request updating all the properties inside the record
+    // patch is updating some properties of the record
 
     dispatch({type: EDIT_SREAM, payload: response.data});
+    history.push('/');
 };
 
 export const deleteStream = id => async dispatch => {
