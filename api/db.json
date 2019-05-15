@@ -17,25 +17,13 @@
       "id": 3
     },
     {
-      "title": "Another one",
-      "description": "Another one Description",
-      "userId": "115744295907934150560",
-      "id": 4
-    },
-    {
-      "title": "Unexpected Behavior",
-      "description": "didn't expect that",
-      "userId": "115744295907934150560",
-      "id": 5
-    },
-    {
       "title": "Maya Hanno",
       "description": "Here is my story",
       "id": 6
     },
     {
-      "title": "Here we go again",
-      "description": "Watch me refactor some components",
+      "title": "Title 2",
+      "description": "No Description 1",
       "userId": "115744295907934150560",
       "id": 7
     }
